@@ -43,7 +43,7 @@ The dataset was generously provided by an American agriculture company. The data
 # Data Preperation
 It looks like the features in our database have been standardized and normalized -- (likely because it's difficult to create a scale for subjective 'scores' such as sweetness and juiciness) this is very helpful.
 
-Let's continue with the rest of our data preparation steps:
+We will continue with the rest of our data preparation steps:
 
 - Handling Missing Values
 - Encoding Categorical Variables
