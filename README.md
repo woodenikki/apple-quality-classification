@@ -1,12 +1,17 @@
-## Business Understanding
+# Business Understanding
 
-- **Stakeholders**: apple growers, distributors, and retailers
-- **Problem**: 
+#### Stakeholders:
+> Apple growers, distributors, and retailers
+
+#### Problem:
 > By predicting apple quality, this project helps the entire apple industry. Growers can prioritize harvesting the best apples, reducing waste. Distributors can send high-quality apples to premium markets, ensuring customer satisfaction. Retailers can optimize inventory, reducing spoilage and improving profitability. Overall, this project helps reduce waste and improve customer satisfaction for all stakeholders.
+
+#### Conclusion:
+> This apple classification model is a game-changer for the apple industry. With 90% accuracy in identifying good and bad apples, it streamlines operations across the board. Growers can focus on producing top-quality fruit, distributors can optimize their logistics, and retailers can stock shelves with confidence. The result? Less waste, happier customers, and a more efficient supply chain. While human expertise remains crucial, this model provides a powerful tool to enhance decision-making and maintain high standards throughout the apple journey from orchard to consumer.
 
 ---
 
-## Data Understanding:
+# Data Understanding:
 This dataset contains information about various attributes of a set of fruits, providing insights into their characteristics. The dataset includes details such as fruit ID, size, weight, sweetness, crunchiness, juiciness, ripeness, acidity, and quality.
 
 The dataset was generously provided by an American agriculture company. The data has been scaled and cleaned for ease of use.
@@ -35,7 +40,7 @@ The dataset was generously provided by an American agriculture company. The data
 
 ---
 
-## Data Preperation
+# Data Preperation
 It looks like the features in our database have been standardized and normalized -- (likely because it's difficult to create a scale for subjective 'scores' such as sweetness and juiciness) this is very helpful.
 
 Let's continue with the rest of our data preparation steps:
@@ -44,6 +49,8 @@ Let's continue with the rest of our data preparation steps:
 - Encoding Categorical Variables
 - Feature Scaling
 - Feature Selection / Engineering
+
+These steps ensure data consistency, allow the model to interpret categorical data, maintain feature importance balance, and focus on the most relevant predictors, ultimately leading to a more accurate and efficient quality prediction model!
 
 ---
 
@@ -100,6 +107,10 @@ This final model is a reliable tool for automating apple quality assessment. Inc
 ---
 
 ## Repository
+All work can be found in my jupyter notebook, and final assement / recommendations from the model are in the presentation.
+
+#### To replicate:
+> Download the zip file at [Apple Quality: Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality), and save to this directory. The jupyter notebook will handle extraction!
 
 - [Jupyter Notebook](notebook.ipynb)
 - Presentation slides
