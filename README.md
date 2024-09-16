@@ -20,8 +20,8 @@ The dataset was generously provided by an American agriculture company. The data
 
 #### Features:
 
-| Feature     | Description                                                |
-|-------------|-----------------------------------------------------------|
+| Feature     | Description                                              |
+|-------------|----------------------------------------------------------|
 | A_id        | Unique identifier for each fruit                         |
 | Size        | Size of the fruit                                        |
 | Weight      | Weight of the fruit                                      |
@@ -109,6 +109,6 @@ This final model is a reliable tool for automating apple quality assessment. Inc
 ## Repository
 All work can be found in my jupyter notebook, and final assement / recommendations from the model are in the presentation. No need to extract zip file.
 
-- [data.zip] from [Apple Quality: Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality)
+- [data.zip](data.zip) from [Apple Quality: Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality)
 - [Jupyter Notebook](notebook.ipynb)
 - Presentation slides
