@@ -107,8 +107,9 @@ This final model is a reliable tool for automating apple quality assessment. Inc
 ---
 
 ## Repository
-All work can be found in my jupyter notebook, and final assement / recommendations from the model are in the presentation. No need to extract zip file.
 
-- [data.zip](data.zip) from [Apple Quality: Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality)
-- [Jupyter Notebook](notebook.ipynb)
-- Presentation slides
+#### To replicate:
+> Download the zip file at [Apple Quality: Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality), and save to this directory. The jupyter notebook will handle extraction!
+
+- [Jupyter Notebook](notebook.ipynb): all work done on this project
+- [Presentation slides](slides.pdf): final conclusion for stakeholders
